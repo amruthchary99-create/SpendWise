@@ -1,0 +1,6 @@
+{
+  "name": "SpendWise",
+  "description": "A distraction-free, privacy-focused expense management web app with real-time Spending Pulse insights and budget tracking in Indian Rupees (₹).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
